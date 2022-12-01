@@ -31,9 +31,9 @@ class ProductManager {
   getProductById = (id) => {
     let product = this.products.find((prod) => prod.id === id);
     if (product) {
-      console.log(`Se halló un producto con el id:${id}`);
+      return product;
     } else {
-      console.error(`Not found id: ${id}`);
+      return "NOT FOUND";
     }
   };
 }
@@ -81,7 +81,7 @@ instancia.addProduct(
 
 // método “getProductById” el cual debe buscar en el arreglo el producto que coincida con el id
 
-instancia.getProductById(1);
-instancia.getProductById(2);
-instancia.getProductById(3);
-instancia.getProductById(10);
+console.log(instancia.getProductById(1));
+console.log(instancia.getProductById(2));
+console.log(instancia.getProductById(3));
+console.log(instancia.getProductById(10));
