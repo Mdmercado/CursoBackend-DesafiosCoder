@@ -1,0 +1,13 @@
+[
+	{
+		"title": "Mate",
+		"description": "mate-imperial",
+		"code": "abc123",
+		"price": 4000,
+		"status": true,
+		"stock": 12,
+		"category": "Mates",
+		"thumbnail": "abc123-mate",
+		"id": 1
+	}
+]

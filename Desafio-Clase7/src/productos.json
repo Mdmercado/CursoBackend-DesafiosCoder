@@ -1,0 +1,92 @@
+[
+	{
+		"title": "producto prueba",
+		"description": "Este es un producto de prueba",
+		"price": 200,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 25,
+		"id": 1
+	},
+	{
+		"title": "producto prueba2",
+		"description": "Este es un producto de prueba",
+		"price": 200,
+		"thumbnail": "Sin imagen",
+		"code": "adc123",
+		"stock": 25,
+		"id": 2
+	},
+	{
+		"title": "producto prueba3",
+		"description": "Este es un producto de prueba",
+		"price": 250,
+		"thumbnail": "Sin imagen",
+		"code": "162204",
+		"stock": 32,
+		"id": 3
+	},
+	{
+		"title": "producto prueba4",
+		"description": "Este es un producto para eliminar",
+		"price": 250,
+		"thumbnail": "Sin imagen",
+		"code": "123456",
+		"stock": 12,
+		"id": 4
+	},
+	{
+		"title": "producto prueba5",
+		"description": "Este es un producto para eliminar",
+		"price": 250,
+		"thumbnail": "Sin imagen",
+		"code": "123457",
+		"stock": 12,
+		"id": 5
+	},
+	{
+		"title": "producto prueba6",
+		"description": "Este es un producto para eliminar",
+		"price": 250,
+		"thumbnail": "Sin imagen",
+		"code": "123458",
+		"stock": 12,
+		"id": 6
+	},
+	{
+		"title": "producto prueba7",
+		"description": "Este es un producto para eliminar",
+		"price": 250,
+		"thumbnail": "Sin imagen",
+		"code": "123459",
+		"stock": 12,
+		"id": 7
+	},
+	{
+		"title": "producto prueba8",
+		"description": "Este es un producto para eliminar",
+		"price": 250,
+		"thumbnail": "Sin imagen",
+		"code": "123410",
+		"stock": 12,
+		"id": 8
+	},
+	{
+		"title": "producto prueba9",
+		"description": "Este es un producto para eliminar",
+		"price": 250,
+		"thumbnail": "Sin imagen",
+		"code": "123411",
+		"stock": 12,
+		"id": 9
+	},
+	{
+		"title": "producto prueba10",
+		"description": "Este es un producto para eliminar",
+		"price": 250,
+		"thumbnail": "Sin imagen",
+		"code": "123412",
+		"stock": 12,
+		"id": 10
+	}
+]
