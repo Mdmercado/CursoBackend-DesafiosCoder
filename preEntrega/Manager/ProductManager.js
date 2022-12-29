@@ -73,11 +73,9 @@ class ProductManager {
     }
   };
   deleteProduct = (id) => {
-    console.log(id);
     let productToRemove = this.products.find((prod) => prod.id == id);
     if (productToRemove) {
       let filterProducts = this.products.filter((prod) => prod.id != id);
-      console.log(filterProducts);
       this.products = filterProducts;
       fs.writeFileSync(this.path, JSON.stringify(this.products, null, "\t"));
       return `Producto con ID: ${id} ¡ha sido eliminado exitosamente!`;
